@@ -33,7 +33,7 @@ This is a [**Squid Game**](https://squid-game-green.vercel.app/#/about) Website 
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="drawing" width="48" height="48"/>
 </div>
 
-### Technolohies that used in this App:
+### Other Libs & Packages:
  - [Animate.css](https://animate.style/) Library
  - [Styled Components](https://styled-components.com/) Library
  - [React Router](https://reactrouter.com/) Library
