@@ -41,4 +41,4 @@ This is a [**Squid Game**](https://squid-game-green.vercel.app/#/about) Website 
 -----
 
 # App Picture
-![Squid Game Website]("./App Image.png")
+![Squid Game Website](https://github.com/ahmedmohmd/H--Squid-Game/blob/main/App%20Image.png?raw=true)
