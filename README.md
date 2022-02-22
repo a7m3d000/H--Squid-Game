@@ -22,20 +22,22 @@ This is a [**Squid Game**](https://squid-game-green.vercel.app/#/about) Website 
 # Languages & Technologies
 ### Lauages That used in this Website:
 
-![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-![javascript](https://img.icons8.com/color/48/000000/javascript--v2.png)
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=ar"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" width="48" height="48"/></a>
+</div>
 
 ### Technolohies that used in this Website:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="drawing" width="48" height="48"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="drawing" width="48" height="48"/>
+  <a href="https://reactjs.org/"><img src="https://cdn-icons-png.flaticon.com/512/3334/3334886.png" alt="drawing" width="48" height="48"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/></a>
+  <a href="https://styled-components.com/"><img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/nail-polish-73-761221.png" width="48" height="48"/></a>
 </div>
 
 ### Other Libs & Packages:
  - [Animate.css](https://animate.style/) Library
- - [Styled Components](https://styled-components.com/) Library
  - [React Router](https://reactrouter.com/) Library
 
 -----
