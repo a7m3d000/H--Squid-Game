@@ -5,7 +5,7 @@ Small and Nice Website for **Squid Game** Series.
 -----
 
 # Discreption
-This is a [**Squid Game**](https://squid-game-green.vercel.app/#/about) Website That show Info about Squid Game Series:
+This is a [**Squid Game**](https://squid-g3me.vercel.app/#/) Website That show Info about Squid Game Series:
   - Stages
   - Rules
   - About Game
